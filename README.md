@@ -10,7 +10,7 @@
 ## Introduction and Motivation
 In the rapidly evolving world of healthcare, the importance of making informed decisions about medical insurance cannot be overstated. Medical insurance is a critical tool that protects individuals and families from exorbitant healthcare costs. However, understanding and predicting the cost of medical insurance premiums can be a complex task due to the myriad of factors that influence it.
 
-This project was born out of the desire to leverage the power of data science and machine learning to make this task easier and more transparent. By creating a model that accurately predicts the yearly medical cover cost, we aim to empower individuals to make better-informed decisions about their healthcare.
+This project was born out of the desire to leverage the power of machine learning to make this task easier and more transparent. By creating a model that accurately predicts the yearly medical cover cost, we aim to empower individuals to make better-informed decisions about their healthcare.
 
 Moreover, this project also serves as a valuable exploration into how health-related parameters can influence insurance costs. Through this, we hope to shed light on the importance of maintaining good health and its potential financial benefits in terms of lower insurance premiums.
 
